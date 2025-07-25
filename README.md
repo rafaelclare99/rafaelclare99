@@ -1,4 +1,4 @@
-# 🙋‍♂️ Sobre Mim
+#  Sobre Mim
 
 - 🎓 Graduado em **Sistemas de Informação**  
 - 🚀 Foco em **Back-End com C# e ASP.NET**  
