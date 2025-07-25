@@ -5,7 +5,7 @@
 - 🌐 Aprendendo também **Front-End com HTML, CSS, JavaScript e Angular**  
 - 🎯 Objetivo: Me tornar especialista em **desenvolvimento .NET**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/rafael-clare)
 
 ---
 
