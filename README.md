@@ -43,6 +43,4 @@
 
 ---
 
-### 🧭 Visitantes
 
-![Visitor Count](https://profile-counter.glitch.me/{rafaelclare99}/count.svg)
