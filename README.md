@@ -1,44 +1,48 @@
-#  Sobre Mim
+# 👨‍💻 Sobre Mim
 
-- 🎓 Graduado em **Sistemas de Informação**  
-- 🚀 Foco em **Back-End com C# e ASP.NET**  
-- 🌐 Aprendendo também **Front-End com HTML, CSS, JavaScript e Angular**  
+- 🎓 Graduado em **Sistemas de Informação**
+- 🚀 Foco em **Back-End com C# e ASP.NET**
+- 🌐 Aprendendo também **Front-End com HTML, CSS, JavaScript e Angular**
 - 🎯 Objetivo: Me tornar especialista em **desenvolvimento .NET**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/rafael-clare)
+<div id="badges">
+  <a href="https://www.linkedin.com/in/rafael-clare/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>  
+</div>
 
 ---
 
-## 🚀 Principais Skills
+# 🚀 Principais Skills
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>  
-</p>
-
----
-
-## 🧰 Ferramentas & Tecnologias
-
-- **Linguagens**: C#, JavaScript, SQL  
-- **Frameworks**: .NET, ASP.NET Core, Entity Framework Core  
-- **Ferramentas**: Git, Visual Studio, Azure, SQL Server  
+<div> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>  
+  <img src="https://icon.icepanel.io/Technology/svg/.NET-core.svg" title=".NET Core" alt=".NET Core" width="40" height="40"/>  
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-servers-and-networks-soft-fill-soft-fill-juicy-fish.png" title="SQL" alt="SQL" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original-wordmark.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>
+</div>
 
 ---
 
-## 📊 Linguagens Mais Usadas
+# 🧰 Ferramentas & Tecnologias
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelclare99&layout=compact&theme=dark)
+- **Linguagens:** C#, JavaScript, SQL  
+- **Frameworks:** .NET, ASP.NET Core, Entity Framework Core  
+- **Ferramentas:** Git, Visual Studio, Azure, SQL Server
 
 ---
 
-## 👁️ Visitantes
+### 📊 Linguagens Mais Usadas:
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rafaelclare99)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littleshark99&layout=compact&theme=dark)
+
+---
+
+### 🧭 Visitantes
+
+![Visitor Count](https://profile-counter.glitch.me/{littleshark99}/count.svg)
