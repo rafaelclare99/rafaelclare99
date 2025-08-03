@@ -39,7 +39,7 @@
 
 ### 📊 Linguagens Mais Usadas:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littleshark99&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelclare99&layout=compact&theme=dark)
 
 ---
 
