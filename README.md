@@ -3,8 +3,7 @@
 - 🎓 Graduado em **Sistemas de Informação**
 - 🚀 Foco em **Back-End com C# e ASP.NET**
 - 🌐 Aprendendo também **Front-End com HTML, CSS, JavaScript e Angular**
-- 🎯 Objetivo: Me tornar especialista em **desenvolvimento .NET**
-
+- 🎯 Objetivo: Me tornar Desenvolvedor Full Stack
 <div id="badges">
   <a href="https://www.linkedin.com/in/rafael-clare/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
