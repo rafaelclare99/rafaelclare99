@@ -40,7 +40,8 @@
 
 ### 📊 Linguagens Mais Usadas:
 
-![Top Langs! [GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelclare99&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelclare99&show_icons=true&theme=dark)
+
 
 ---
 
