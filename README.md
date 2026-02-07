@@ -40,7 +40,8 @@
 
 ### 📊 Linguagens Mais Usadas:
 
-![Top Langs][(https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelclare99&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelclare99&layout=compact&theme=dark
+[![Top Langs][(https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelclare99&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelclare99&layout=compact&theme=dark
+)](https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&layout=compact&theme=dark
 )
 
 ---
